@@ -17,7 +17,7 @@ used to train the model is the
 ### System Information
 - **Programming Language:** Python 3.6.4 (64-bit) (*not* using Anaconda)
 - **Operating System:** Windows 10 Pro
-- **Architecture:**: 64-bit, Intel Xeon CPU E3-1270 @ 3.80GHz
+- **Architecture:** 64-bit, Intel Xeon CPU E3-1270 @ 3.80GHz
 
 ### Required Packages
 - [scikit-learn 0.19.1](https://pypi.python.org/pypi/scipy/1.0.0) (for preprocessing and normalization)
